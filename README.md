@@ -1,5 +1,7 @@
 # ECISA — Executive Continuity & Institutional Stability Act
 
+![ECISA banner](ECISA_banner.png)
+
 **Model Act and implementation scaffolding for continuity floors and capacity-aware guardrails on high-impact executive actions.**
 
 > If an executive action is big enough to disable essential functions or wipe out operational capacity, it must pass through a short, enforceable public process: publish impacts, define continuity floors, and accept rapid independent review.
